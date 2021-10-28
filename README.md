@@ -1,11 +1,10 @@
-- 👋 Hi, I’m @torresramiro350
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @torresramiro350, a first generation student with a master's of science in physics
+- 👀 I’m interested in python software development as a career
+- 🌱 I’m currently learning python and currently collaborating with developers of threeML/astromodels and threeML/hawc_hal
+- 💞️ I’m looking to collaborate on large python projects
+- 📫 How to reach me torresramiro350@gmail.com
 
 <!---
 torresramiro350/torresramiro350 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Hi, I am Ramiro. A first generation student with a master's of science in physics. I am interested in python software developemnt as a career. I am currently collaborating with developers for the analysis packages threeML/astromodels and threeML/HAWC_HAL.
