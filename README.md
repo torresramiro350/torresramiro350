@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @torresramiro350, a first generation student with a master's of science in physics
+- 👋 Hi, I’m @torresramiro350!
 - 👀 I’m interested in python software development as a career
 - 🌱 I’m currently learning python and currently collaborating with developers of threeML/astromodels and threeML/hawc_hal
 - 💞️ I’m looking to collaborate on large python projects
