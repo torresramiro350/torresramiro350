@@ -79,13 +79,4 @@ I'm an astrophysicist (PhD, Astronomy — Shanghai Jiao Tong University) transit
 
 ---
 
-### GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=torresramiro350&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torresramiro350&layout=compact&hide_border=true" height="165" />
-</p>
-
----
-
 <p align="center"><em>Astrophysicist → Research Software Engineer. Open to RSE / Scientific Computing roles.</em></p>
